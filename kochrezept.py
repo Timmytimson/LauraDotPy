@@ -65,7 +65,8 @@ tausend_pimmel()'''
 
 wort = "abcdeFG"
 länge = len(wort)
-'''print(wort, länge)
+'''
+print(wort, länge)
 print(wort[0])
 print(wort[länge-1])
 
